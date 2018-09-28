@@ -1,12 +1,12 @@
 ## Urhobo Spoken Digits
 
-Item Name: URH-DIGITS
-Author(s): {I, JN} Orife
-Data Source: lavalier microphone
-Audio Format: 1-channel Linear PCM, 16k, 16bit
-Application: Speech Recognition
-Language:	Urhobo
-Language ID: urh
+* Item Name: URH-DIGITS
+* Author(s): {I, JN} Orife
+* Data Source: lavalier microphone
+* Audio Format: 1-channel Linear PCM, 16k, 16bit
+* Application: Speech Recognition
+* Language:	Urhobo
+* Language ID: urh
 
 URH-DIGITS contains speech collected for the purpose of bootstrapping Urhobo ASR modeling efforts with the task of recognizing connected digit sequences. There is currently a single speakers pronouncing 150 digit sequences. 
 
